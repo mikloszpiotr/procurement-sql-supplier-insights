@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,is_preferred
+S001,Supplier_1,USA,False
+S002,Supplier_2,India,False
+S003,Supplier_3,China,True
+S004,Supplier_4,India,False
+S005,Supplier_5,India,False
+S006,Supplier_6,Poland,True
+S007,Supplier_7,China,True
+S008,Supplier_8,China,True
+S009,Supplier_9,China,True
+S010,Supplier_10,India,True

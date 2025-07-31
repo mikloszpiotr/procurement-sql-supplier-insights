@@ -1,0 +1,16 @@
+material_id,material_name,category
+M001,Material_1,Raw
+M002,Material_2,Raw
+M003,Material_3,Packaging
+M004,Material_4,Packaging
+M005,Material_5,Packaging
+M006,Material_6,Component
+M007,Material_7,Packaging
+M008,Material_8,Component
+M009,Material_9,Component
+M010,Material_10,Packaging
+M011,Material_11,Component
+M012,Material_12,Packaging
+M013,Material_13,Packaging
+M014,Material_14,Raw
+M015,Material_15,Packaging
